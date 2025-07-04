@@ -1,0 +1,8 @@
+{
+  "password": "PAssword_keystore_wallet",
+  "proxy": {
+    "server": "Server",
+    "username": "username",
+    "password": "pasword"
+  }
+}
